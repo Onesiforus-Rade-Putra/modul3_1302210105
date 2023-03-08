@@ -1,0 +1,11 @@
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\bin\Debug\modul3_1302210105.exe.config
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\bin\Debug\modul3_1302210105.exe
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\bin\Debug\modul3_1302210105.pdb
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.csproj.AssemblyReference.cache
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.csproj.SuggestedBindingRedirects.cache
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.Form1.resources
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.Properties.Resources.resources
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.csproj.GenerateResource.cache
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.csproj.CoreCompileInputs.cache
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.exe
+D:\modul3_1302210105\modul3_1302210105\modul3_1302210105\obj\Debug\modul3_1302210105.pdb
