@@ -27,7 +27,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "8";
             }
             else
             {
@@ -40,7 +40,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "1";
             }
             else
             {
@@ -59,7 +59,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "2";
             }
             else
             {
@@ -73,7 +73,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "3";
             }
             else
             {
@@ -86,7 +86,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "4";
             }
             else
             {
@@ -99,7 +99,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "5";
             }
             else
             {
@@ -112,7 +112,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "6";
             }
             else
             {
@@ -125,7 +125,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "7";
             }
             else
             {
@@ -138,7 +138,7 @@ namespace modul3_1302210105
         {
             if (textBox1.Text == "0")
             {
-                textBox1.Text = "0";
+                textBox1.Text = "9";
             }
             else
             {
